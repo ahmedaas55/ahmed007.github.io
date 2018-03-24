@@ -1,0 +1,248 @@
+/*       START NAV       */
+ body{
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:  3px;
+    overflow: hidden ;
+    padding:11px;
+    padding:8px;
+	
+}
+
+li {
+
+
+    float:right;
+padding:10px;
+background-color: none;
+	
+}
+
+li a {
+    color:#555;
+    text-align: center;
+    padding: 12px 16px;
+    text-decoration: none;
+    padding:10px;
+    color: #555;
+    font-size: 21px;
+    font-family:Tahoma;
+    transition: 0.5s;}
+    li a:hover{
+    background: #dddddd47;
+    border-radius: 35px;    
+}
+.wl :hover {
+    background-color: #4CAF50;
+    color: white;
+}
+/* END NAV */
+
+
+.lo
+{
+	margin-left: -8px;
+	margin-right: -8px;
+	
+}
+
+.logo
+{
+
+	    letter-spacing: 5px;
+             font-family: "Playfair Display";
+	    font-size: 36px;
+             color: #555;
+
+}
+
+
+.uy 
+{
+	
+	margin-bottom: -20px;
+
+	margin-left: 0px;
+	
+}
+
+.uy {
+    opacity: 0.7;
+    filter: alpha(opacity=50); 
+}
+
+.uy:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+
+
+.ere h3
+{
+	color:#333;
+	margin-top: -540px;
+}
+
+
+
+.ere p
+{
+margin-left: 50px;
+margin-top: -35px;
+}
+
+.ere .opop
+{
+	color: #555;
+	margin-left: -122px;
+	margin-top: 12px;
+	
+}
+
+
+
+
+
+
+
+
+
+
+.photo {
+    opacity: 0.7;
+    filter: alpha(opacity=50); 
+}
+
+.photo:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+}
+
+
+
+
+.photo
+{
+	margin-top: 12px;
+	margin-left: 75px;
+}
+
+.happy
+{
+           letter-spacing: 5px;
+	  font-size: 30px;
+
+}
+
+.haweepy 
+{
+	
+           letter-spacing: 5px;
+	  font-size: 20px;
+	margin-bottom: 60px;
+	
+}
+
+.haweepy  ntr
+{
+	color:red;
+}
+
+.oooo
+{
+	
+           letter-spacing: 5px;
+	  font-size: 20px;
+	margin-bottom: 60px;
+}
+
+.yyy
+{
+	
+           letter-spacing: 5px;
+	  font-size: 20px;
+	margin-bottom: 60px;
+}
+
+.www
+{
+	
+           letter-spacing: 5px;
+	  font-size: 20px;
+	margin-bottom: 60px;
+}
+
+
+.Contact
+{
+	font-size: 20px;
+	color: #444;
+         font-family: "Playfair Display";
+}
+
+.int
+{
+	width: 1100px;
+	border: none;
+	border-bottom: 2px solid #ccc
+
+}
+
+.otr
+{        width: 1100px;
+	border: none;
+	border-bottom: 2px solid #ccc
+
+	
+}
+
+.wwwee
+{
+	width: 1100px;
+	border: none;
+	border-bottom: 2px solid #ccc
+}
+
+
+
+
+.qwa
+{
+	width: 1100px;
+	border: none;
+	border-bottom: 2px solid #ccc
+}
+
+
+
+
+
+
+.button
+{
+cursor: pointer;
+border: none; 
+font-size: 15px;	
+padding: 9px;
+margin-left:112px
+}
+
+.button:hover 
+{
+background-color: #f1f1f1;	
+color: #000;
+}
+
+
+.hhhuuuu
+{
+	background-color: #f1f1f1;
+	
+}
+
+
